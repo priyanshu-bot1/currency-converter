@@ -10,10 +10,9 @@ Checking exchange rates and converting amounts manually can be confusing and may
 
 To make this easier, I decided to create a small Python program that can convert one currency to another quickly.
 
-
+---
 
 2\. Scope of the Project
-
 
 
 This project is made only with the basic concepts taught in the course.
@@ -36,7 +35,7 @@ The project does not include advanced features like API calls, GUI, or database 
 
 It is kept simple on purpose to match the basic Python + NumPy syllabus.
 
-
+---
 
 3\. Target Users
 
@@ -48,7 +47,7 @@ The program can be useful for:
 
 &nbsp;-Anyone who needs a simple conversion tool
 
-
+---
 
 4\. High-Level Features
 
@@ -58,7 +57,7 @@ The program can be useful for:
 
 &nbsp;	Supported currencies: INR, USD, EUR, GBP, AUD, CAD, JPY, CNY.
 
-
+---
 
 &nbsp;-NumPy-Based Rate Matrix
 
@@ -74,7 +73,7 @@ The program can be useful for:
 
 &nbsp;	converted\_amount = amount \* rate\[from\_index]\[to\_index]
 
-
+---
 
 5\. Summary
 
@@ -85,4 +84,5 @@ This project shows how Python and NumPy can be used to build a simple currency c
 It is easy to understand, works without the internet, and helps in practicing basic programming concepts.
 
 The project is suitable for a beginner-level Python course and demonstrates practical use of NumPy arrays.
+
 
