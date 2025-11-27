@@ -34,19 +34,24 @@ array is used to store all the exchange rates, and the program uses simple index
 
 ---
 
-6. How It Works
+4. How It Works
  -user selects two currencies.
  - program detects the correct exchange rate using NumPy indexing.
  - the amout you write is multiply with the rate
  - converted value is shown on the terminal
 
-7. Limitations
+---
+
+5. Limitations
  -Rates of the currency are fixed
  -their is no graphical interface
  - only 8 currencies included
 
-8. Future Improvements
+---
+ 
+6. Future Improvements
  -Add live exchange rates using an API
  -Add a GUI using Tkinter
  -Add more currencies
+
 
