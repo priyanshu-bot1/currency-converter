@@ -43,15 +43,16 @@ array is used to store all the exchange rates, and the program uses simple index
 ---
 
 5. Limitations
- -Rates of the currency are fixed
- -their is no graphical interface
- - only 8 currencies included
+ - Rates of the currency are fixed
+ - Their is no graphical interface
+ - Only 8 currencies included
 
 ---
  
 6. Future Improvements
- -Add live exchange rates using an API
- -Add a GUI using Tkinter
- -Add more currencies
+ - Add live exchange rates using an API
+ - Add a GUI using Tkinter
+ - Add more currencies
+
 
 
